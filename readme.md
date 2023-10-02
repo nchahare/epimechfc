@@ -2,10 +2,10 @@
 
 Content:
 
-[Basic rules (try to follow)](#basic-rules-try-to-follow)
-[Process](#process)
-[Example: First Draft](#example-first-draft)
-[More explanation](#more-explanation)
+- [Basic rules (try to follow)](#basic-rules-try-to-follow)
+- [Process](#process)
+- [Example: First Draft](#example-first-draft)
+- [More explanation](#more-explanation)
 
 ## Basic rules (try to follow)
 
