@@ -1,5 +1,12 @@
 # Epithelial Mechanics Fan Club
 
+Content:
+
+[Basic rules (try to follow)](#basic-rules-try-to-follow)
+[Process](#process)
+[Example: First Draft](#example-first-draft)
+[More explanation](#more-explanation)
+
 ## Basic rules (try to follow)
 
 Do not worry! These are not super serious rules. Just few guidelines to keep in mind when working on your thread. Anyway, we will help you to get the tweets in correct way.
@@ -26,23 +33,23 @@ Do not worry! These are not super serious rules. Just few guidelines to keep in 
 
 ## Example: First Draft
 
-This is an example of an email I received from a delegate. If you prefer, you can use a Word document instead. We worked on this and transformed it into a proper thread, ![check here](https://x.com/EpiMechFC/status/1708417266029576668?s=20). 
+This is an example of an email I received from a delegate. If you prefer, you can use a Word document instead. We worked on this and transformed it into a proper thread, [check here](https://x.com/EpiMechFC/status/1708417266029576668?s=20). 
 
 ---
-1.    A paper published on @eLife described an optogenetic tool that manipulate morphological features of endothelial cells by spatial and temporal control of RhoGTPases in cell-cell adhesions, specifically adherens junctions                              (@EikeMahlandt, @joachimgoedhart).
-      -> Paper: https://elifesciences.org/articles/84364; Video: https://twitter.com/eLife/status/1705209355287535653
 
-      Adherens junctions (AJs) are a protein complex composed by cadherins, catenins and other adaptor proteins, such as vinculin. In composition, epithelial and endothelial AJs only differ in the type of cadherin, where epithelial has
-      E- cadherin and endothelial has VE-cadherin. But are they different in structure or morphology?
+1.    A paper published on @eLife described an optogenetic tool that manipulate morphological features of endothelial cells by spatial and temporal control of RhoGTPases in cell-cell adhesions, specifically adherens junctions (@EikeMahlandt, @joachimgoedhart).
+-> Paper: https://elifesciences.org/articles/84364; Video: https://twitter.com/eLife/status/1705209355287535653
 
-2.    In 2012, Huveneers et al. (@Huveneers_Lab, Johan de Rooij) described two states of AJs in endothelial cells: stable and remodeling. The stable state is characterized by actin cables parallel to the junctions and low force. The                           remodeling state exhibit actin cables colocalized with the junctions and is associated with high force.
-      -> Paper: https://rupress.org/jcb/article/196/5/641/36721/Vinculin-associates-with-endothelial-VE-cadherin; Video: https://movie.rupress.org/video/10.1083/jcb.201108120/video-2
+Adherens junctions (AJs) are a protein complex composed by cadherins, catenins and other adaptor proteins, such as vinculin. In composition, epithelial and endothelial AJs only differ in the type of cadherin, where epithelial has E- cadherin and endothelial has VE-cadherin. But are they different in structure or morphology?
+
+2.    In 2012, Huveneers et al. (@Huveneers_Lab, Johan de Rooij) described two states of AJs in endothelial cells: stable and remodeling. The stable state is characterized by actin cables parallel to the junctions and low force. The remodeling state exhibit actin cables colocalized with the junctions and is associated with high force.
+-> Paper: https://rupress.org/jcb/article/196/5/641/36721/Vinculin-associates-with-endothelial-VE-cadherin; Video: https://movie.rupress.org/video/10.1083/jcb.201108120/video-2
 
 3.    Additionally, in 2018, Efimova and Svitkina (@NadiaEfimova3) showed that in the stable state, AJs were indirectly connected to actin cables by a layer of branched actin. Therefore, proposing actin as a generator of a dynamic push-pull       system in AJs of endothelial cells.
-      -> Paper: https://rupress.org/jcb/article/217/5/1827/38917/Branched-actin-networks-push-against-each-other-at; Figure: https://rupress.org/view-large/figure/7957167/JCB_201708103_Fig2.jpeg
+-> Paper: https://rupress.org/jcb/article/217/5/1827/38917/Branched-actin-networks-push-against-each-other-at; Figure: https://rupress.org/view-large/figure/7957167/JCB_201708103_Fig2.jpeg
 
 4.    One year later, in 2019, Heuzé et al. (@BLadoux, @ReneMege) observed the same branched actin layer in AJs of epithelial cells (MDCK) and described the non-muscle myosin IIB (NMIIB) as its maintainer. Thus, indicating a huge similarity       of AJs between endothelial and epithelial cells.
-      -> Paper: https://elifesciences.org/articles/46599#s2; https://iiif.elifesciences.org/lax/46599%2Felife-46599-fig4-v2.tif/full/1500,/0/default.jpg
+-> Paper: https://elifesciences.org/articles/46599#s2; https://iiif.elifesciences.org/lax/46599%2Felife-46599-fig4-v2.tif/full/1500,/0/default.jpg
 
 
 Leading to the ultimate question: is endothelium a type of epithelium?
@@ -54,6 +61,7 @@ If you are interested in mechanobiology of endothelial cells, here is one good r
 (Could be something like this. We can discuss about the take home messages later)
 
 Best,
+
 ---
 
 ## More explanation
