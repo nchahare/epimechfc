@@ -14,7 +14,7 @@ Do not worry! These are not super serious rules. Just few guidelines to keep in 
 1. Make sure you have at least four papers related to the theme of epithelial mechanics.
 2. Begin your thread with an interesting question related to the theme.
 3. Use short sentences in each tweet, separated by blank spaces.
-4. Feel free to use emojis like ➡️ or 🔙 to keep your tweets concise within the 280-character limit.
+4. Feel free to use emojis like ➡️ or 🔙 to keep your tweets concise within the 255-character limit. I will add link to the paper. This is counted as 23 characters.
 5. Always include images or videos with each tweet.
 6. Mention the Twitter handles of the labs associated with the papers you are referencing.
 7. Start and end your thread by tagging yourself so people know who you are.
